@@ -1,0 +1,13 @@
+self.copy.ind: 0
+num.surrogates: 8
+exp.num.surrogates: 4
+input.file.ids: example/BrahuiYorubaSimulation.idfile.txt
+input.file.copyvectors: example/BrahuiYorubaSimulation.copyvectors.txt
+save.file: example/BrahuiYorubaSimulation.sourcefind.txt
+copyvector.popnames: Adygei Armenian Balochi BantuKenya BantuSouthAfrica Basque Bedouin Belorussian BiakaPygmy Bulgarian Burusho Cambodian Chuvash Colombian Cypriot Dai Daur Druze EastSicilian Egyptian English Ethiopian EthiopianJew Finnish French Georgian GermanyAustria Greek Hadza Han HanNchina Hazara Hezhen Hungarian Indian IndianJew Iranian Ireland Japanese Jordanian Kalash Karitiana Lahu Lezgin Lithuanian Makrani Mandenka Maya MbutiPygmy Melanesian Miao Mongola Moroccan Mozabite Myanmar Naxi NorthItalian Norwegian Orcadian Oroqen Palestinian Papuan Pathan Pima Polish Romanian Russian Sandawe SanKhomani SanNamibia Sardinian Saudi Scottish She Sindhi SouthItalian Spanish Surui Syrian Tu Tujia Tunisian Turkish Tuscan UAE Uygur Uzbekistani Welsh WestSicilian Xibo Yakut Yemeni Yi
+surrogate.popnames: Adygei Armenian Balochi BantuKenya BantuSouthAfrica Basque Bedouin Belorussian BiakaPygmy Bulgarian Burusho Cambodian Chuvash Colombian Cypriot Dai Daur Druze EastSicilian Egyptian English Ethiopian EthiopianJew Finnish French Georgian GermanyAustria Greek Hadza Han HanNchina Hazara Hezhen Hungarian Indian IndianJew Iranian Ireland Japanese Jordanian Kalash Karitiana Lahu Lezgin Lithuanian Makrani Mandenka Maya MbutiPygmy Melanesian Miao Mongola Moroccan Mozabite Myanmar Naxi NorthItalian Norwegian Orcadian Oroqen Palestinian Papuan Pathan Pima Polish Romanian Russian Sandawe SanKhomani SanNamibia Sardinian Saudi Scottish She Sindhi SouthItalian Spanish Surui Syrian Tu Tujia Tunisian Turkish Tuscan UAE Uygur Uzbekistani Welsh WestSicilian Xibo Yakut Yemeni Yi
+target.popnames: BrahuiYorubaSimulation
+num.slots: 100
+num.iterations: 200000
+num.burnin: 50000
+num.thin: 5000
