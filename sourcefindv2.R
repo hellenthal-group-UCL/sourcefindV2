@@ -12,11 +12,6 @@
 ########################################
 ## COMMAND LINE INPUT:
 
-# library("data.table", lib.loc="/home/smorris/R/x86_64-pc-linux-gnu-library/3.5/")
-# a = sessionInfo()
-# print(a$otherPkgs[grep("data.table", a$otherPkgs)])
-# library(stringr)
-
 usage <- function() {
   print(noquote("run using: R < sourcefindv2.R parameter_infile --no-save > screen_output"))
   print(noquote("parameter input file format (NO defaults, all fields must be entered, even if not used):"))
